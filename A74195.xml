@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The state martyrologie. Or, innocent blood speaking its mournfull tragedy, in the history of the late anarchy since 1648. to this present time 1660.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74195</idno>
+            <idno type="STC">Wing S5300</idno>
+            <idno type="STC">Thomason 669.f.25[33]</idno>
+            <idno type="STC">ESTC R211906</idno>
+            <idno type="STC">ESTC R31181</idno>
+            <idno type="EEBO-CITATION">99870578</idno>
+            <idno type="PROQUEST">99870578</idno>
+            <idno type="VID">163838</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74195)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163838)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f25[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The state martyrologie. Or, innocent blood speaking its mournfull tragedy, in the history of the late anarchy since 1648. to this present time 1660.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (port.)  </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Creake and are to be sold by Edw. Thomas at the Adam and Eve in Little-brittaine,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With engraved portraits of Charles II; the Marquis of Montrose; Lord Capell; the Earl of Derby; and Doctor Hewitt</note>
+                  <note>A summary of the events of 1648 [i.e., 1649] - 1660.</note>
+                  <note>Annotation on Thomason copy: "May 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:163838:1"/>
+            <head>THE STATE MARTYROLOGIE. OR, INNOCENT BLOOD Speaking its Mournfull TRAGEDY, In the HISTORY of the late ANARCHY ſince 1648. to this preſent Time 1660.</head>
+            <figure>
+               <figDesc>portrait of James, Marquess of Montrose</figDesc>
+               <p>The undaunted Marqueſs of Montroſs</p>
+            </figure>
+            <figure>
+               <figDesc>portrait of Arthur Lord Capell</figDesc>
+               <p>The Renowned Lord Capell</p>
+            </figure>
+            <figure>
+               <figDesc>portrait of Charles II</figDesc>
+               <p>The high and Mighty Monarch <hi>CHARLES</hi> the ſecond by the Grace of <hi>GOD</hi> King of Great Brittaine France and Ireland Defender of the fayth G:</p>
+            </figure>
+            <figure>
+               <figDesc>portrait of James, Earl of Derby</figDesc>
+               <p>The valiant Earle of Darby</p>
+            </figure>
+            <figure>
+               <figDesc>portrait of Dr John Hewitt</figDesc>
+               <p>The Reverend and truly Pious Doctor Hewitt</p>
+            </figure>
+            <list>
+               <head>A Liſt of ſome Worthy Per<g ref="char:EOLhyphen"/>ſons Who have Suffered Violent Deaths for their Loyalty to his Sacred Ma<g ref="char:EOLhyphen"/>jeſty <hi>KING Charles</hi> the Second.</head>
+               <item>DUke Hamilton, <hi>Earl of</hi> Cam<g ref="char:EOLhyphen"/>bridge,</item>
+               <item>Henry <hi>Lord</hi> Rich, <hi>Earle of</hi> Hol<g ref="char:EOLhyphen"/>land.</item>
+               <item>
+                  <hi>Arthur</hi> Lord <hi>Capell</hi>; All three Be<g ref="char:EOLhyphen"/>headed in the Palace Yard <hi>Weſtminſter, March</hi> 9th. 1649.</item>
+               <item>
+                  <hi>Col. John Morris</hi> late Governour <hi>of Pontefract-caſtle,</hi> executed at <hi>Yorke,</hi> Auguſt 23. 1649.</item>
+               <item>
+                  <hi>James</hi> Marqueſſe of <hi>Montroſſe</hi> Hanged on a Gallows 30 Foot high at <hi>Edingburgh,</hi> his Head, Leggs, and Armes ſet on ſeve<g ref="char:EOLhyphen"/>ral places.</item>
+               <item>Colonel <hi>Euſebius Andrews</hi> Behead<g ref="char:EOLhyphen"/>ed on Tower Hill, <hi>Auguſt</hi> the 22d. 1650.</item>
+               <item>Sir <hi>Henry Hide,</hi> Beheaded near the Exchange <hi>London, March</hi> the 4th. 1650.</item>
+               <item>
+                  <hi>James</hi> Earle of <hi>Derby</hi> Beheaded at <hi>Bolton</hi> in <hi>Lancaſhire, October</hi> the 15th. 1651.</item>
+               <item>Mr. <hi>John Gerbard,</hi> Beheaded on Tower Hill, <hi>July</hi> the 10th. 1654.</item>
+               <item>Mr. <hi>Peter Vowel,</hi> Executed at <hi>Cha<g ref="char:EOLhyphen"/>ring Croſſe,</hi> the 10th of <hi>July,</hi> 1654.</item>
+               <item>Colonel <hi>Penruddock. Hugh Grove</hi> Eſq. both Beheaded in the Caſtle at <hi>Exon, May</hi> the 16, 1655.</item>
+               <item>Sir <hi>Henry Slingsby.</hi> The Reverend and Pious, Dr. <hi>John Hewit,</hi> both Beheaded the 8th. of <hi>June,</hi> 1658.</item>
+               <item>Colonel <hi>Aſhton,</hi> and <hi>John Betteley,</hi> both Hanged and Quartered, the firſt in <hi>Tower ſtreet,</hi> the o<g ref="char:EOLhyphen"/>ther in <hi>Cheap-ſide,</hi> and <hi>Edmund Stacy</hi> Hang'd in <hi>Cornhill.</hi>
+               </item>
+            </list>
+            <p>THe whole Intrigue and deſign of the Deteſtable and Horrid Murther of the KING, with all its concomitant and ſuc<g ref="char:EOLhyphen"/>ceeding paſſages of State, with which the Counſels and con<g ref="char:EOLhyphen"/>trivements of all the complices and partakers in that abominable fact, have piec'd and patcht up their ſeverall forms of pretended Go<g ref="char:EOLhyphen"/>vernment; are herein (as farre as the beſt inſight can take a view of it both by the publique, and ſome private papers) produced to the light: to the end that monſtrous Guilt which hath ſo infamed our times and Nation, may be palpably detected and imputed onely to the parties engaged about, and conſpiring in it; to the diſcharge of the Kingdome from the wickedneſſe of that unparalle'ld <hi>Regicide.</hi>
+            </p>
+            <p>It is paſt all queſtion that <hi>Oliver Cromwell</hi> was <hi>principal,</hi> and the chief acceſſary in <hi>complotting</hi> of it was <hi>Henry Ireton</hi> his Son in Law the then Commiſſary General of the Army, Sir <hi>Gilbert Pickering</hi> was a great Privado, and Sir <hi>Arthur Haſilrigge</hi> a choice inſtrument to the plot. the firſt Overt and open Act of the Deſign to <hi>Olivers</hi> often dream't of Soveraignty was the ſeizing of his Majeſty by <hi>Cornet Ioyce</hi> at <hi>Holmeby</hi>; next the Armies Declaration to the Parliament, (in pur<g ref="char:EOLhyphen"/>ſuance of the <hi>Agreement of the People</hi>) for impartial juſtice, then force<g ref="char:EOLhyphen"/>ing the Houſe of Commons and debarring the Lords from ſitting in their Houſe, putting a <hi>Iuncto</hi> of Common Council upon the City; all which pernicious and villanous courſes meeting with a Degenerate ſort of men, and of mean Births and Fortunes ſtill remaining in the lower Houſe, who were aſſured of making themſelves by the ſpoiles of the Church and State, when they came to be ſole Lords of them, quickly brought that ſad and calamitous <hi>parricide</hi> to maturity.</p>
+            <p>Theſe irregular violent proceedings were delivered of a High Court of Juſtice, more Exorbitant then any their former Actions; to make this up they pack Commiſſioners, like Maſter, like Men, and with precious promiſes purchaſe <hi>Bradſhaw</hi> to be the impudent Mouth of their Lawleſſe Court; the main Engineers whereof were <hi>William Say, Auguſtine Garland, Gilbert Millington,</hi> both Sir <hi>Henry Vanes,</hi> &amp;c. This pretended formal Judicature being by ſuch Diabolical Machi<g ref="char:EOLhyphen"/>nations erected, they bring the KING to their BAR, and there againſt all Law, Reaſon, and Humanity, (Duty, and Allegiance was loſt before) condemn their Liege Lord and Soveraign.</p>
+            <p>Immediately after the Barbarous Execution of his Majeſty; they make an Act againſt Kingly Government printed at large, Vote the Supream power and Authority to be and reſide in the people thinking thereby to Collogue and ingratiate with them, then fall they to their former Butchery, ſet their High Court of Juſtice at work again with freſh Blood-Hounds and a New Preſident, for <hi>Bradſhaw</hi> was Lorded, and Scorned to do Journey work; and by that ſame power Murther Duke <hi>Hamilton,</hi> the Earle of <hi>Holland,</hi> and the renowned Lord <hi>Capell, March</hi> 19. 1648. And make an Act to aboliſh the Houſe of Peers.</p>
+            <p>Then they make an Act for an Aſſeſſement of 120000 <hi>per menſem</hi> to ſecure the Liberties of the people, Declare themſelves a Free State, and Commonwealth, take off the KINGS Head from his Statue in the Royal Exchange, and by and by after (as aſhamed of their ridi<g ref="char:EOLhyphen"/>culous malice) Remove the ſaid Statue.</p>
+            <p>The next thing in order to the Eſtabliſhment of their unmatchable Tyranny, they endeavour Leagues with Forrein States, ſend over <hi>Doriſlaus</hi> one that drew up the Charge againſt KING, to the States of <hi>Holland</hi>; but the firſt night he came to the <hi>Hague</hi> where the KING our preſent Soveraign then was, he was killed by one <hi>Whitford</hi> a <hi>Scotchman,</hi> the like was done to <hi>Aſcham</hi> another of their Miniſters ſent into <hi>Spain</hi>; they ſend <hi>Richard Bradſhaw</hi> the Kinſman of that <hi>Be<g ref="char:EOLhyphen"/>lial</hi> Preſident to the City of <hi>Hamborough</hi> maintain Intelligencers and Spies in all the Courts of Chriſtendome, and with the grand Seignior. The 22d of <hi>Auguſt</hi> 1650. thirſting after more blood, their High Court of Juſtice Condemns Colonel <hi>Euſebius Andrews</hi> for receiving Com<g ref="char:EOLhyphen"/>miſſions from the KING, and by a Committee Sentenc'd Sir <hi>Henry</hi> Hide for being the KINGS Agent at <hi>Conſtantinople.</hi> And now upon ſome Reaſons of State the King of <hi>Spain</hi> acknowledges them for a Free State, then they pick a quarrel with the <hi>Hollander</hi> in which they were ſuccesful: but their Uſurped Tyrannical Dominion began to wain, when they thought themſelves ſettled and ſure in the Sad<g ref="char:EOLhyphen"/>dle; for after the defeat given to the KING at <hi>Worecſter,</hi> their General purpoſed to rule the Roaſt himſelf, and reap the fruit of his perjuries and time ſerving Declarations, to which purpoſe he minded their Rumpſhips, of the General ſuſpicion and grievance of the people, as if they intended to perpetuate themſelves in the Govern<g ref="char:EOLhyphen"/>ment: this overture from him they promiſed to take into conſide<g ref="char:EOLhyphen"/>ration, and to Lull him a ſleep (who was Reſtleſſe in his Ambition) conferre upon him all the Honours and Reſpects imaginable, (though they had before gratifyed him largely out of the Sales of Delinquents Eſtates, out of which they had raiſed vaſt ſums to their Exchequor.)</p>
+            <p>But all would not do, he had dream't he ſhould be a KING and he was reſolved to purſue ſuch leading hopes to it as (his much cele<g ref="char:EOLhyphen"/>brated) providence had ſo fairly offered him. And it is here remark<g ref="char:EOLhyphen"/>able that he took the ſame advantage by their intended indiſſolution to turn them out of doors, as they did to turn the KING out by his Gracious Act of continuing the parliament till their own pleaſure; ſo juſtly was their ingratitude and baſeneſs retaliated. This year <hi>March</hi> 29, 1651. <hi>Brown-Buſhel,</hi> beheaded under Tower Hill; and now ſo odious were they to their own party by <hi>Olivers</hi> defaming of them to the Saints, that a Council of Officers after a Humiliation and ſeeking of God, find it a duty incumbent on their ſpirits to move the Gene<g ref="char:EOLhyphen"/>ral to put a period to the preſent parliament, <hi>this hap'ned</hi> in <hi>Aprill,</hi> 1653. Accordingly the General acquaints the Houſe with the propo<g ref="char:EOLhyphen"/>ſals of the Army, and that the good people of the Nation ought not longer to be delayed, or fruſtrated of the price of that blood and treaſure had been expended. Now the <hi>Rump</hi> began to ſtink, and found out what their <hi>Mirmydon Oliver</hi> aimed at, and therefore to ob<g ref="char:EOLhyphen"/>viate his aſpiring conceits, they appoint a Committee to enform him that as the Nation ſtood, there was no probability of aſſerting the good Old Cauſe without the continuance of the parliamen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that they would fill up their Houſe immediately, and then proceed to qualifi<g ref="char:EOLhyphen"/>cations for new Elections, to which end they laid before him the dan<g ref="char:EOLhyphen"/>ger of the return of the Common Enemy (ſo they termed his now Majeſty) &amp; that this would be the greateſt Service could be done him, with ſundry other reaſons, which when <hi>Oliver</hi> had laught at, at a Con<g ref="char:EOLhyphen"/>ference with ſome twenty of their Members, and acquainted them with his Reſolution; he accompanied with ſeveral chief Officers of his Army entered the Houſe, where having Declared his buſineſſe, ſome by force, ſome through fear, ſome not without murmuring and reluctancy departed thence; And to ſet a fair Gloſſe on what he had done, and give ſome ſatisfaction to the people (who were as glad of the change as himſelf) he publiſhed a Declaration wherein he tells the people the ſame ſtory he had told as aforeſaid to the parliament. And this was the firſt Comical Scene of our troubles, to which the Kingdomes cryed <hi>plaudite.</hi>
+            </p>
+            <p>This Action as it made <hi>Cromwell</hi> the more acceptable to the ſober part of people, who were overjoyed to be any way rid of that accur<g ref="char:EOLhyphen"/>ſed thing, ſo did it highly conduce to his Deſignes in the minds and affections of the Phanatique Crew, who were alwayes the conſtant Votaries of the Army: from among theſe therefore he picks up, and gathers a Congregation which he calls a Parliament, in the interim erects a Councell of State, and by a Letter of Summons in <hi>May</hi> 1653. they were convened at <hi>Whitehall. Monday June</hi> 4. 1653 their buſineſs was after a ſhort ſitting to conferre their power of Parliament upon <hi>Cromwell,</hi> (for any pretence of right would ſerve turn that had the Authority of the SWORD) and accordingly the major part did ſo, as they were bid, and by a thing called an Inſtrument reſigned their power into his hands. (Note that in this fooliſh or <hi>Barebones</hi> Parliament, which conſiſted of 120, there were neer 20 <hi>Rumpers.</hi>)</p>
+            <p>That Inſtrument begot another of 42 Strings or Articles, and by the Muſick of this, <hi>Cromwell</hi> was made Lord <hi>protector,</hi> and on the 16. of <hi>December,</hi> 1653. he was inſtalled in <hi>Weſtminſter-hall,</hi> in the Court of Chancery, Preſident <hi>Liſle</hi> adminiſtring him an Oath, to which <hi>Oliver</hi> lifting up his NOSE, and EYES, ſwore devoutly and re<g ref="char:EOLhyphen"/>ligiouſly, as he had uſed, in the preſence of <hi>mine Heers</hi> the Judges, and my Lord Mayor, and his Brethren the Aldermen, who were in<g ref="char:EOLhyphen"/>vited to the Solemnity. In requitall whereof, they invited his High<g ref="char:EOLhyphen"/>neſs to dine with them at <hi>Grocers-Hall,</hi> where he was magnificently treated in <hi>February</hi> following. A <hi>Proclamation</hi> that all Writs ſhould run in the name and ſtile of the Lord protector. An Ordinance to repeal the Act of Engagement, ſeveral Ordinances touching the Ad<g ref="char:EOLhyphen"/>miniſtration and Government of <hi>Scotland.</hi> All this while he kept ſquare with the Cavalier, now it was time (<hi>July</hi> 1654.) to think of a <hi>plot,</hi> to that purpoſe he had a Secretary for his turn one <hi>Thurloe,</hi> for<g ref="char:EOLhyphen"/>merly Judge <hi>St. John</hi>'s Man, he and his Emiſſiaries, Trepan Mr. <hi>John Gerard,</hi> and Mr. <hi>Vowell,</hi> as guilty of conſpiring with one <hi>Fox,</hi> about the protectors death, for which the two firſt were Executed by Sentence of <hi>Liſle</hi> Preſident of a new High Court of Juſtice.</p>
+            <p>By this time he thought he was Radicated in the Government, and to try <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oncluſions (for as long as the SWORD was in his hand he was ſafe enough) he ſummoned a parliament in <hi>November</hi> which con<g ref="char:EOLhyphen"/>tinued 5 Lunary months, wholly ſpent in queſtioning the power that called them, and debating the Inſtrument; at the diſſolution of this parliament, <hi>OLIVER</hi> uſed theſe words, <hi>viz.</hi> 
+               <q>This <hi>one thing I ſpeak adviſed before God, that this is my conſtant judgement, if this one thing had been inſerted, that this Government ſhould have been and placed Hereditary in my Family, I would have</hi> rejected it.</q> And after, <q>
+                  <hi>If this be of humane ſtructure and invention, and if it be an old plotting to bring things to this paſſe, and that they are not the births of provi<g ref="char:EOLhyphen"/>dence, then they will come to nothing.</hi>
+               </q> Note, the <hi>Rump</hi> was too hard for <hi>Oliver</hi> this parliament, and ſpoiled all his projects and deſignes upon it, this goes by the name of the Dumb parliament, preſently after follows the inſurrection in the <hi>Weſt.</hi>
+            </p>
+            <p>But he had purpoſed to have money by Hook or Crook, (he had a little before made peace with the <hi>Hollanders</hi> upon diſadvantagious terms) he therefore by the advice of <hi>Mazarine,</hi> falls out with the <hi>Spaniard,</hi> and a Fleet was ſent to conquer his <hi>Weſt Indies,</hi> and diſ<g ref="char:EOLhyphen"/>poſſeſſe him of his Mines; but he reapt nothing from thence, but Loſſe, and Diſhonour. A peace is concluded with <hi>Sweden,</hi> by the management of <hi>Bulſt. Whitlocke,</hi> one of his prime Engines of State, preſently after the French peace; ſo that there was no danger to him from abroad. Still money was lacking, and Authority to obtain it from the people, and he ſaw that he muſt either govern arbitrarily or precariouſly; Wherefore in 1656. he calls another parliament, by which ſecluding the major, and Honeſter part, and by corrupt Ele<g ref="char:EOLhyphen"/>ctions, he was declared to be protector, and accordingly veſted by Sir <hi>Thomas Widrington,</hi> Speaker. <hi>June</hi> 20. 1657. another Houſe Vo<g ref="char:EOLhyphen"/>ted and then the parliament prorogued. Met again in a full Houſe <hi>January</hi> after, and ready to queſtion him; he comes to the painted Chamber, and in a fury diſſolves them. And now he began to be cruel in earneſt, and diſcovers the bloodineſs of his mind, Innocent Sir <hi>Henry Slingsby,</hi> Dr. <hi>Hewit,</hi> &amp;c. murthered by a High Court of Ju<g ref="char:EOLhyphen"/>ſtice. An Engliſh Army in <hi>Flanders</hi> take <hi>Mardike</hi> and <hi>Dunkirk.</hi> His daughter <hi>Cleypoole</hi> dies. And on the 3d. of <hi>September,</hi> 1558. death ſummon'd him to an account, and put an end to his ſhort and trou<g ref="char:EOLhyphen"/>bleſome Domination and Rule.</p>
+            <p>
+               <hi>Richard</hi> ſucceeds his Father, calls a parliament, diſſolves it through the threats of the Army, and <hi>Exit.</hi> Enter again Sir <hi>Rump,</hi> and out again and for ever, whoſe exorbitant late wicked actions ſtinck ſo freſh yet every where, that it will be irkſome and loathſome to repeat them.</p>
+            <p>To Conclude, by the wiſdome and unparallel'd Conduct of our Noble General, we are hopefully arrived at a reeſtabliſhment of our Lawes, Liberties, and Religion, under the Government of his moſt Excellent Majeſty, <hi>CHARLES</hi> the 2d, whom God long, and long preſerve. He was proclaimed, <hi>May</hi> 8. 1660.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> printed by <hi>T. Creake</hi> and are to be ſold by <hi>Edw. Thomas</hi> at the <hi>Adam</hi> and <hi>Eve</hi> in Little-brittaine. 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
